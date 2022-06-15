@@ -14,7 +14,7 @@ I invite you to check out the different repos, e.g.
 - [Quercus Group's Website](https://quercus-group.com/) 👉 private repo
 - the conference website [Innovate4WASH](https://innovate4wash.quercus-group.com/) with registration, authentication, payment with stripe 👉 [Repo](https://github.com/wad-im/innovate4wash)
 
-Say hi at hello@wadimbaslow.com
+Say hi at hello@wadimbaslow.com. I'm looking for freelance opportunities or even shifting the profession [my Linkedin Profile](https://www.linkedin.com/in/wbaslow/).
 
 Thank you,
 Wadim
